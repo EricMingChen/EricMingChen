@@ -10,10 +10,24 @@
     },
     "items": [
         {
+            "id": "https://EricMingChen.github.io/publications.html",
+            "url": "https://EricMingChen.github.io/publications.html",
+            "title": "Publications",
+            "summary": "Peer-reviewed journals",
+            "content_html": "<p>Peer-reviewed journals</p>",
+            "author": {
+                "name": "Ming Chen"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-03-27T21:44:18+00:00",
+            "date_modified": "2024-03-27T21:44:18+00:00"
+        },
+        {
             "id": "https://EricMingChen.github.io/test.html",
             "url": "https://EricMingChen.github.io/test.html",
             "title": "News Update",
-            "summary": "03/2024, Became a member of the Research Culture Committee, University of Bristol 02/2024, Joined the Programme Committee for iLRN2024 (10th&hellip;",
+            "summary": "03/2024, Became a member of the Research Culture Committee, University of Bristol 02/2024, Joined the Programme Committee for iLRN2024 (10th International Conference of the Immersive Learning Research Network) 01/2024, Became a reviewer for the International Journal of Smart Technology and Learning 01/2024, Joined the PGR&hellip;",
             "content_html": "<p>03/2024, Became a member of the Research Culture Committee, University of Bristol</p><p>02/2024, Joined the Programme Committee for iLRN2024 (10th <a href=\"https://www.immersivelrn.org/\">International Conference of the Immersive Learning Research Network</a>)</p><p>01/2024, Became a reviewer for the <a href=\"https://www.inderscience.com/jhome.php?jcode=ijsmarttl\">International Journal of Smart Technology and Learning</a></p><p>01/2024, Joined the PGR Student representative team at the School of Education, University of Bristol</p><p>11/2023, Joined <a href=\"https://www.bristol.ac.uk/people/person/Paul-Howard-Jones-eb5fe54a-2996-4b40-b957-cd0bca339e6c/\">Prof. Paul Howard-Jones</a>‘s research project, “Emotion, Action, and Climate Change”</p><p>11/2023, Coordinated the Educational Technology Panel, CCEF (<a href=\"http://www.cambridgecef.net/col.jsp?id=104\">Cambridge China Education Forum</a>)</p><p>09/2023, Started my PhD journey in Bristol</p><p>09/2023, Joined <a href=\"http://cte.scnu.edu.cn/a/20220518/404.html\">Prof. Weiyong Hua</a>‘s research project, “Research Literacy among Early Career Teachers”</p><p>06/2023, Granted the <a href=\"https://www.bristol.ac.uk/students/support/finances/scholarships/china-scholarship-council/\">China Scholarship Council - University of Bristol Joint Scholarship</a></p><p>01/2023, Admitted to the <a href=\"https://www.bristol.ac.uk/education/study/doctoral/phd/\">PhD in Education program</a> at the School of Education, University of Bristol</p>",
             "author": {
                 "name": "Ming Chen"

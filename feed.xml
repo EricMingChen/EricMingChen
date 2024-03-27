@@ -3,12 +3,32 @@
     <title>Ming Chen</title>
     <link href="https://EricMingChen.github.io/feed.xml" rel="self" />
     <link href="https://EricMingChen.github.io" />
-    <updated>2024-03-27T16:48:02+00:00</updated>
+    <updated>2024-03-27T21:44:18+00:00</updated>
     <author>
         <name>Ming Chen</name>
     </author>
     <id>https://EricMingChen.github.io</id>
 
+    <entry>
+        <title>Publications</title>
+        <author>
+            <name>Ming Chen</name>
+        </author>
+        <link href="https://EricMingChen.github.io/publications.html"/>
+        <id>https://EricMingChen.github.io/publications.html</id>
+
+        <updated>2024-03-27T21:44:18+00:00</updated>
+            <summary>
+                <![CDATA[
+                    Peer-reviewed journals
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Peer-reviewed journals</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>News Update</title>
         <author>
@@ -20,7 +40,7 @@
         <updated>2024-03-27T16:09:51+00:00</updated>
             <summary>
                 <![CDATA[
-                    03/2024, Became a member of the Research Culture Committee, University of Bristol 02/2024, Joined the Programme Committee for iLRN2024 (10th&hellip;
+                    03/2024, Became a member of the Research Culture Committee, University of Bristol 02/2024, Joined the Programme Committee for iLRN2024 (10th International Conference of the Immersive Learning Research Network) 01/2024, Became a reviewer for the International Journal of Smart Technology and Learning 01/2024, Joined the PGR&hellip;
                 ]]>
             </summary>
         <content type="html">
