@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Ming Chen</title>
+    <link href="https://EricMingChen.github.io/feed.xml" rel="self" />
+    <link href="https://EricMingChen.github.io" />
+    <updated>2024-03-27T16:09:51+00:00</updated>
+    <author>
+        <name>Ming Chen</name>
+    </author>
+    <id>https://EricMingChen.github.io</id>
+
+    <entry>
+        <title>test</title>
+        <author>
+            <name>Ming Chen</name>
+        </author>
+        <link href="https://EricMingChen.github.io/test.html"/>
+        <id>https://EricMingChen.github.io/test.html</id>
+
+        <updated>2024-03-27T16:09:51+00:00</updated>
+            <summary>
+                <![CDATA[
+                    test
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>test</p>
+            ]]>
+        </content>
+    </entry>
+</feed>
